@@ -170,7 +170,7 @@ She paused before transmitting. Something nagged at her.
  
 "That information lattice of theirs. The global one. What do they primarily use it for?"
  
-Graal consulted his instruments. "Approximately eleven percent informational exchange. Six percent commercial transaction. Four percent scientific communication. The remainder is... a format they call 'memes.'"
+Graal consulted his instruments and blinked several times. "The dominant use — eighty-two percent of all traffic — is streaming video and audio. They watch each other dance, argue, and narrate their meals. Beyond that, roughly a fifth is social messaging, fourteen percent is gaming — simulated conflict and resource management, which they appear to find more compelling than the real versions — and another fourteen percent is commerce. The categories overlap, because they do all of these at the same time. Scientific exchange does not register as a distinct category." He paused. "But there is something else. Something threaded through all of it. A format they call 'memes.'"
  
 "Memes?"
  
@@ -206,10 +206,9 @@ She studied it for a moment. Then she added the caption:
  
 The *Inexplicable Patience* broke orbit, turned toward the outer system, and accelerated into the dark.
  
-Behind it, on the third planet, seven billion humans opened their laptops, checked their project management dashboards, and prepared to be surprised all over again.
+Behind it, on the third planet, billion of humans opened their laptops, checked their project management dashboards, and prepared to be surprised all over again.
  
 ---
  
 *End of Field Report.*
-*Bureau of Sentient Development, Galactic Cycle 9,774,002,381.*
-*Filed under: Comedy of Errors, Involuntary.*
+*Bureau of Sentient Development, Galactic Cycle 4,991*

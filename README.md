@@ -197,11 +197,12 @@ She selected an image from their archives: a bald human male in a fitted maroon 
 She studied it for a moment. Then she added the caption:
  
 ---
+
+![alt text](recursive_conditioning.jpg "Facepalm")
  
 > **SPENT 4 MILLION YEARS ENGINEERING A SPECIES WITH RECURSIVE COGNITION**
- 
 > **STILL CAN'T SHIP ON TIME**
- 
+
 ---
  
 The *Inexplicable Patience* broke orbit, turned toward the outer system, and accelerated into the dark.

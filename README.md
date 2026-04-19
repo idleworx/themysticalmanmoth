@@ -198,7 +198,7 @@ She studied it for a moment. Then she added the caption:
  
 ---
 
-![alt text](recursive_conditioning.jpg "Facepalm")
+![alt text](recursive_cognition.jpg "Facepalm")
  
 > **SPENT 4 MILLION YEARS ENGINEERING A SPECIES WITH RECURSIVE COGNITION**
 > **STILL CAN'T SHIP ON TIME**

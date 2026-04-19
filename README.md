@@ -7,7 +7,7 @@ Because that's how it should have been written!
 
 *Index*
 
-Chapter 1 - A Field Report from the Galactic Bureau of Sentient Development
+[Chapter 1](#chapter-1) - A Field Report from the Galactic Bureau of Sentient Development
 Chapter 2 - tbd
 
 # Experiment P-47829372937
